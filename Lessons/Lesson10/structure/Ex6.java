@@ -67,6 +67,7 @@ class Leaf implements Component {
 }
 
 public class Ex6 {
+    //(1+2)*3+4*5-->1 2 + 3 * 4 5 * +
     public static void main(String[] args) {
         Component one = new Leaf(1);
         Component two = new Leaf(2);

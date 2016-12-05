@@ -15,7 +15,7 @@ public class Planet extends AbstractObject{
 
     public Planet(String name){
         this.name=name;
-        continents=new ArrayList<Continent>();
+        continents=new ArrayList<>();
         oceans=new ArrayList<Ocean>();
         islands=new ArrayList<Island>();
         moons=new ArrayList<Moon>();

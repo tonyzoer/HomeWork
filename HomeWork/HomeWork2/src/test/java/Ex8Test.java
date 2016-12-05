@@ -1,6 +1,3 @@
-/**
- * Created by mafio on 11.11.2016.
- */
 
 import Ex8.ListZoer;
 import junit.framework.Assert;
